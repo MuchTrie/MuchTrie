@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Much Trie</h1>
+[<h1 align="center">Hi 👋, I'm Much Trie</h1>
 <h3 align="center">A passionate Security Analyst.</h3>
 
 <img align="right" alt="Animated Programmer GIF" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
@@ -66,3 +66,4 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
+](https://github.com/MuchTrie)

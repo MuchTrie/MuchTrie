@@ -44,9 +44,6 @@
     <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" alt="Google Cybersecurity"/>
   </a>
   <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00642999-569d-4876-8095-2362b534e32d/image.png" width="100" alt="Google AI"/>
-  </a>
-  <a href="https://www.credly.com/users/much" target="_blank">
     <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100" alt="Ethical Hacker"/>
   </a>
   <a href="https://www.credly.com/users/much" target="_blank">
@@ -69,9 +66,6 @@
   
   <a href="https://www.credly.com/users/much" target="_blank">
     <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" alt="Python Essentials"/>
-  </a>
-  <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100" alt="Introduction to Cybersecurity"/>
   </a>
 </div>
 

@@ -20,11 +20,10 @@
 
 <h3 align="left">Certifications & Badges:</h3>
 <p align="left">
-  <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/images/42914b43-6902-4546-8d62-12502f901968/blob.png" width="110" alt="Cybersecurity Badge"/>
+  <a href="https://www.credly.com/badges/c03dd50a-4373-4d97-bef7-e21d6642ff62/public_url" target="_blank">
+    <img src="https://images.credly.com/images/2afc348a-c05a-4ff6-b211-d1a625accafb/blob.png" width="130" alt="Google Cybersecurity Professional Certificate V2"/>
   </a>
-  
-  </p>
+</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>

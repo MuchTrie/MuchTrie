@@ -21,15 +21,15 @@
 <h3 align="left">Certifications & Badges:</h3>
 <p align="left">
   <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110" alt="Google Cybersecurity"/>
+    <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="110" alt="Google Cybersecurity Professional Certificate V2"/>
   </a>
   
   <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/00642999-569d-4876-8095-2362b534e32d/image.png" width="110" alt="Google AI Essentials"/>
+    <img src="https://images.credly.com/size/340x340/images/00642999-569d-4876-8095-2362b534e32d/image.png" width="110" alt="Google AI Essentials V1"/>
   </a>
 
   <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="110" alt="Cyber Threat Management"/>
+    <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" alt="Ethical Hacker"/>
   </a>
   
   <a href="https://www.credly.com/users/much" target="_blank">
@@ -37,17 +37,17 @@
   </a>
 
   <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" alt="Ethical Hacker"/>
-  </a>
-
-  <a href="https://www.credly.com/users/much" target="_blank">
     <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="110" alt="Endpoint Security"/>
   </a>
 
   <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="110" alt="Network Defense"/>
+    <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="110" alt="Cyber Threat Management"/>
   </a>
     
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="110" alt="Network Defense"/>
+  </a>
+
   <a href="https://www.credly.com/users/much" target="_blank">
     <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" alt="Python Essentials 1"/>
   </a>

@@ -10,7 +10,7 @@
 
 <hr/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+<table align="center">
   <tr>
     <td width="55%" valign="top">
       <h2>⚡ About Me</h2>
@@ -21,18 +21,11 @@
         <li>🛡️ Passionate about <b>Network Defense & Threat Hunting</b></li>
         <li>📫 How to reach me: <b>mtrie@gmail.com</b></li>
       </ul>
-      
       <h3>🌐 Connect with me:</h3>
       <p align="left">
-        <a href="https://www.linkedin.com/in/much3/" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-        </a>
-        <a href="https://www.instagram.com/muchx3/" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" />
-        </a>
-        <a href="https://www.credly.com/users/much" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" height="40" width="50" />
-        </a>
+        <a href="https://www.linkedin.com/in/much3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" /></a>
+        <a href="https://www.instagram.com/muchx3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="50" /></a>
+        <a href="https://www.credly.com/users/much" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/credly.svg" alt="Credly" height="40" width="50" /></a>
       </p>
     </td>
     <td width="45%" valign="center" align="center">

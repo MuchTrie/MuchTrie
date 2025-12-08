@@ -1,5 +1,13 @@
-// Simple test file to demonstrate testing functionality
-// This is a basic example for testing
+/**
+ * Test Suite for Basic Functionality
+ * 
+ * This file contains tests that verify core JavaScript operations including:
+ * - String comparisons
+ * - Array operations
+ * - Object property access
+ * 
+ * Run with: npm test or node test.js
+ */
 
 /**
  * Test function to verify basic functionality

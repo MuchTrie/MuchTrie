@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QSsOSsMqXhRfk0V9eN/giphy.gif" width="600" height="auto"/>
+  <img src="https://media.giphy.com/media/QnJwCdu8dCCW08eO6K/giphy.gif" width="100%" style="border-radius: 10px;"/>
 </div>
 
 <hr/>
@@ -47,17 +47,39 @@
 
 <h2 align="center">🏆 Certifications & Badges</h2>
 <div align="center">
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" alt="Google Cybersecurity"/></a>
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/size/340x340/images/00642999-569d-4876-8095-2362b534e32d/image.png" width="100" alt="Google AI"/></a>
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100" alt="Ethical Hacker"/></a>
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" alt="CyberOps"/></a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" alt="Google Cybersecurity"/>
+  </a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/00642999-569d-4876-8095-2362b534e32d/image.png" width="100" alt="Google AI"/>
+  </a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100" alt="Ethical Hacker"/>
+  </a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" alt="CyberOps"/>
+  </a>
   
   <br/>
   
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" alt="Endpoint Security"/></a>
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Cyber Threat Mgmt"/></a>
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="100" alt="Network Defense"/></a>
-  <a href="https://www.credly.com/users/much" target="_blank"><img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" alt="Python Essentials"/></a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="100" alt="Endpoint Security"/>
+  </a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="100" alt="Cyber Threat Mgmt"/>
+  </a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="100" alt="Network Defense"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="100" alt="Python Essentials"/>
+  </a>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100" alt="Introduction to Cybersecurity"/>
+  </a>
 </div>
 
 <br/>

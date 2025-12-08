@@ -16,7 +16,6 @@
       <h2>⚡ About Me</h2>
       <ul>
         <li>🎓 Informatics Student at <b>Itenas Bandung</b></li>
-        <li>🔭 I’m currently working on <b>Blue Teaming & SOC</b></li>
         <li>🌱 I’m currently learning <b>Malware Analysis & Forensics</b></li>
         <li>🛡️ Passionate about <b>Network Defense & Threat Hunting</b></li>
         <li>📫 How to reach me: <b>mtrie@gmail.com</b></li>
@@ -40,9 +39,6 @@
 
 <h2 align="center">🏆 Certifications & Badges</h2>
 <div align="center">
-  <a href="https://www.credly.com/users/much" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" alt="Google Cybersecurity"/>
-  </a>
   <a href="https://www.credly.com/users/much" target="_blank">
     <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="100" alt="Ethical Hacker"/>
   </a>

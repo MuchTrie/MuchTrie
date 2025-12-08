@@ -18,10 +18,34 @@
   </a>
 </p>
 
-<h3 align="left">Certifications:</h3>
+<h3 align="left">Certifications & Badges:</h3>
 <p align="left">
-  <a href="https://www.credly.com/badges/c03dd50a-4373-4d97-bef7-e21d6642ff62/public_url" target="_blank">
-    <img src="https://images.credly.com/images/2afc348a-c05a-4ff6-b211-d1a625accafb/blob.png" width="150" alt="Google Cybersecurity Professional Certificate"/>
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="110" alt="Cyber Threat Management"/>
+  </a>
+  
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="110" alt="CyberOps Associate"/>
+  </a>
+
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="110" alt="Ethical Hacker"/>
+  </a>
+
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="110" alt="Endpoint Security"/>
+  </a>
+
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="110" alt="Introduction to Cybersecurity"/>
+  </a>
+
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" width="110" alt="Network Defense"/>
+  </a>
+    
+  <a href="https://www.credly.com/users/much" target="_blank">
+    <img src="https://images.credly.com/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" width="110" alt="Python Essentials 1"/>
   </a>
 </p>
 <br>

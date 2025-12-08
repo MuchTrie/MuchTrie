@@ -18,10 +18,10 @@
   </a>
 </p>
 
-<h3 align="left">Certifications & Badges:</h3>
+<h3 align="left">Certifications:</h3>
 <p align="left">
   <a href="https://www.credly.com/badges/c03dd50a-4373-4d97-bef7-e21d6642ff62/public_url" target="_blank">
-    <img src="https://images.credly.com/images/2afc348a-c05a-4ff6-b211-d1a625accafb/blob.png" width="130" alt="Google Cybersecurity Professional Certificate V2"/>
+    <img src="https://images.credly.com/images/2afc348a-c05a-4ff6-b211-d1a625accafb/blob.png" width="150" alt="Google Cybersecurity Professional Certificate"/>
   </a>
 </p>
 <br>

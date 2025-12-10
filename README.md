@@ -63,7 +63,7 @@
 </p>
 
 <br/>
-
+<h2 align="center">💻 Skills </h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kali,linux,python,bash,git,github,arch,debian,mysql,gcp,go,laravel,nodejs,redhat,php,tensorflow,unity,vite&perline=9" alt="My Skills" />
 </div>

@@ -13,7 +13,7 @@
 <h3>⚡ About Me</h3>
 <ul>
   <li>🎓 Informatics Student at <b>Itenas Bandung</b></li>
-  <li>🌱 Learning <b>Malware Analysis & Forensics</b></li>
+  <li>🌱 Learning <b>SOC Analys & Forensics</b></li>
   <li>🛡️ Passionate about <b>Network Defense & Threat Hunting</b></li>
   <li>📫 Email: <b>mtrie@gmail.com</b></li>
 </ul>

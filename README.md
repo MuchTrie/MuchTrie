@@ -10,14 +10,6 @@
 
 <hr/>
 
-<h3>⚡ About Me</h3>
-<ul>
-  <li>🎓 Informatics Student at <b>Itenas Bandung</b></li>
-  <li>🌱 Learning <b>SOC Analyst & Forensics</b></li>
-  <li>🛡️ Passionate about <b>Network Defense & Threat Hunting</b></li>
-  <li>📫 Email: <b>mtrie@gmail.com</b></li>
-</ul>
-
 <h3>🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/much3/" target="blank">

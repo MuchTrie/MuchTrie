@@ -1,0 +1,13 @@
+{
+  "name": "muchtrie",
+  "version": "1.0.0",
+  "description": "Testing functionality example",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "MuchTrie",
+  "license": "MIT"
+}

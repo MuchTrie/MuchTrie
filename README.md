@@ -77,22 +77,3 @@ My work spans backend and frontend development, AWS deployment, infrastructure a
 </p>
 
 ---
-
-## Connect
-
-<p align="center">
-  <a href="https://muchtrie.github.io/Much-Portfolio/">
-    <img src="https://img.shields.io/badge/Personal_Portfolio-Visit-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/muchtrie/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="mailto:much.trie.h@gmail.com">much.trie.h@gmail.com</a>
-</p>
-
-<p align="center">
-  <sub>Cloud infrastructure · Secure development · Security automation</sub>
-</p>

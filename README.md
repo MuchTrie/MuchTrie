@@ -28,8 +28,11 @@ Informatics graduate from **Institut Teknologi Nasional Bandung** with experienc
 
 My work spans backend and frontend development, AWS deployment, infrastructure automation, and security monitoring. I am interested in building reliable applications, automating deployment workflows, and improving security operations.
 
+I believe in **continuous learning and growth**, consistently expanding my technical knowledge, exploring emerging technologies, and improving my skills to keep up with the evolving technology landscape.
+
 - Currently seeking opportunities in DevSecOps, Cloud Engineering, and Software Development.
 - Working with AWS, Docker, GitHub Actions, Golang, React, and Wazuh.
+- Committed to continuous learning, hands-on experimentation, and staying up to date with industry best practices.
 - Interested in secure development, cloud infrastructure, and incident response automation.
 
 ---
